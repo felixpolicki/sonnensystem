@@ -1,0 +1,33 @@
+## Patch Variables:
+
+* __mouse_click__ ```Number```
+* __screen_hight__ ```Number```
+* __screen_width__ ```Number```
+* __x_erde__ ```Number```
+* __x_jupiter__ ```Number```
+* __x_mars__ ```Number```
+* __x_merkur__ ```Number```
+* __x_neptun__ ```Number```
+* __x_saturn__ ```Number```
+* __x_sonne__ ```Number```
+* __x_uranus__ ```Number```
+* __x_venus__ ```Number```
+* __y_erde__ ```Number```
+* __y_jupiter__ ```Number```
+* __y_mars__ ```Number```
+* __y_merkur__ ```Number```
+* __y_neptun__ ```Number```
+* __y_saturn__ ```Number```
+* __y_sonne__ ```Number```
+* __y_uranus__ ```Number```
+* __y_venus__ ```Number```
+* __z_erde__ ```Number```
+* __z_jupiter__ ```Number```
+* __z_mars__ ```Number```
+* __z_merkur__ ```Number```
+* __z_neptun__ ```Number```
+* __z_saturn__ ```Number```
+* __z_sonne__ ```Number```
+* __z_uranus__ ```Number```
+* __z_venus__ ```Number```
+
